@@ -98,6 +98,7 @@ body {
 .intro__section {
     /* padding-block-start: 6.2em; */
     background-color: var(--main-color);
+    overflow-x:hidden;
 }
 
 .intro {
@@ -358,6 +359,7 @@ div.min__dashboard>div>p:nth-child(5) {
     padding-block-end: 5em;
     background-color: #eaf0ff;
     margin-inline: 3.5em;
+    overflow-x:hidden;
 }
 
 .support__section .support__intro {
@@ -454,6 +456,7 @@ div.min__dashboard>div>p:nth-child(5) {
 
 .features__section {
     margin-top: 5em;
+    overflow-x:hidden;
 }
 
 .features__section .feature__intro {
@@ -539,6 +542,7 @@ div.min__dashboard>div>p:nth-child(5) {
 .why__us--section {
     margin-inline: 4em;
     margin-block: 3em;
+    overflow-x:hidden;
 }
 
 .why__us--intro {
